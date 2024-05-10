@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tellmehey
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+- I made Purge Engine.
 <!---
 tellmehey/tellmehey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
